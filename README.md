@@ -67,12 +67,15 @@ plt.show()
 ```
 ### OUTPUT:
 ACF:
+
 <img width="703" height="552" alt="image" src="https://github.com/user-attachments/assets/534da81e-7b24-40ef-b4a3-1f1b187560c1" />
 
 PACF:
+
 <img width="742" height="537" alt="image" src="https://github.com/user-attachments/assets/bf2bd527-9d4d-4cc3-b529-faf0c19d3992" />
 
 Prediction:
+
 <img width="1286" height="680" alt="image" src="https://github.com/user-attachments/assets/d9153684-556c-4529-ac16-794690dac23c" />
 
 
